@@ -14,3 +14,13 @@
 
 - [Transfer learning with ResNet.ipynb](https://github.com/Andrew-Ng-s-number-one-fan/Programming-PyTorch-for-Deep-Learning/blob/master/Notebooks/C4-Transfer-Learning-with-ResNet.ipynb)
 - [Finding that learning rate.ipynb]()
+
+### Chapter 5 - Text Classification
+
+### Chapter 6 - A Journey into Sound
+
+### Chapter 7 - Debugging PyTorch Models
+
+### Chapter 8 - PyTorch in Production
+
+### Chapter 9 - PyTorch in the Wild
