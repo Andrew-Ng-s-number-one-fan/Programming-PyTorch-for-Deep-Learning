@@ -11,3 +11,6 @@
 - [Building a CNN model.ipynb](https://github.com/Andrew-Ng-s-number-one-fan/Programming-PyTorch-for-Deep-Learning/blob/master/Notebooks/C3-Building-a-CNN-Model.ipynb)
 
 ### Chapter 4 - Transfer Learning and Other Tricks
+
+- [Transfer learning with ResNet.ipynb](https://github.com/Andrew-Ng-s-number-one-fan/Programming-PyTorch-for-Deep-Learning/blob/master/Notebooks/C4-Transfer-Learning-with-ResNet.ipynb)
+- [Finding that learning rate.ipynb]()
