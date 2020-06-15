@@ -1,4 +1,5 @@
 # Programming PyTorch for Deep Learning
+<i> A book by Ian Pointer</i>
 
 ### Chapter 1 - Getting Started with PyTorch
 
