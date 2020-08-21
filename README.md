@@ -1,6 +1,13 @@
 # Programming PyTorch for Deep Learning
 <i> A book by Ian Pointer</i>
 
+<br>
+<p align="center">
+  <img src="https://github.com/Andrew-Ng-s-number-one-fan/Programming-PyTorch-for-Deep-Learning/blob/master/Notebooks/program-pytorch-for-dl.jpg" height="394px" width="300px">  
+</p>
+<br>
+
+
 ### Chapter 1 - Getting Started with PyTorch
 
 ### Chapter 2 - Image Classification with PyTorch
