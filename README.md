@@ -7,6 +7,7 @@
 </p>
 <br>
 
+# Notebooks
 
 ### Chapter 1 - Getting Started with PyTorch
 
